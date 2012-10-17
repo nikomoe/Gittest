@@ -1,2 +1,3 @@
 nanndemoOK!
 testmemo!
+チェックアウトした後に再コミット
